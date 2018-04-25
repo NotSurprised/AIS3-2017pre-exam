@@ -9,7 +9,7 @@
 ![](https://i.imgur.com/lIfux0e.png)
 ![](https://i.imgur.com/wlYFsqM.png)
 
-解碼已獲得Flag，後續式Web4的前置。
+解碼已獲得Flag，後續是Web4的前置。
 
 ![](https://i.imgur.com/yDi4Ylj.png)
 ![](https://i.imgur.com/uFb9g1J.png)
